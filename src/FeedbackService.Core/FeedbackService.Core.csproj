@@ -4,4 +4,16 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Constant\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Interfaces\Repositories\" />
+    <Folder Include="Models\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Helper\" />
+    <Folder Include="Services\" />
+    <Folder Include="Response\" />
+    <Folder Include="Requests\" />
+  </ItemGroup>
+
 </Project>
